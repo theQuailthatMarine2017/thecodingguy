@@ -86,6 +86,102 @@
     </div>
   </section>
 
+  <section class="section" style="background-color:#181818;text-align:left;">
+    <div class="container">
+      <div class="row">
+        <div class="columns">
+
+          <div class="column is-quarter">
+                  <img src="https://cdnp1.stackassets.com/339f7e3cd0226586bbbff46207c14bdf808f3149/store/dc16664408d9a12615f01a74117f0e7a973e7967b8f4f7ac98a8fc844aa2/sale_10872_primary_image_wide.jpg"
+                />
+                
+          </div>
+
+
+          <div class="column is-three-quarter">
+            <h1 class="title" style="color:white;font-weight:bolder;font-size:30px;text-align:left;text-decoration:underline;">Network Administration</h1>
+            <h2 style="font-weight:bold;color:white;font-size:18px;">Network Administrators Work To Install & Maintain A Network On Which A Company's Information & Communications Are Stored And Transmitted.<br/><br/>I Have The Following Certification From Cisco Who Develop, Manufacture, Sell Networking Hardware & Software;<br/><br/>- CCNA 1 - INTRODUCTION TO NETWORKS<br/>- CCNA 2 - ROUTING & SWITCHING<br/>- CCNA 3 - SCALING NETWORKS<br/></h2>
+          </div>
+
+
+        </div>
+
+    </div>
+    </div>
+  </section>
+
+  <section class="section" style="background-color:#181818;text-align:right;">
+    <div class="container">
+      <div class="row">
+        <div class="columns">
+
+          <div class="column is-three-quarter">
+            <h1 class="title" style="color:white;font-weight:bolder;font-size:30px;text-align:right;text-decoration:underline;">Cyber Security & Ethical Hacking</h1>
+            <h2 style="font-weight:bold;color:white;font-size:18px;">"The More Connected We Are, The Less Secure.."<br><br>As An Ethical Hacker, Also Referred To As A White Hat Hacker, I Can Systematically Attempt to Penetrate Computer Systems, Networks, Applications Or Other Computing Resources On Behalf Of Its Owners -- And With Their Explicit Permission -- To Find Security Vulnerabilities That Malicious Hackers Could Exploit.</h2>
+          </div>
+
+          <div class="column is-quarter">
+                  <img  src="../public/ethical.jpg"
+                />
+                
+          </div>
+
+
+        </div>
+
+    </div>
+    </div>
+  </section>
+
+  <section v-if="isMobile()" class="section" style="background-color:#181818;text-align:right;">
+    <div class="container">
+      <div class="row">
+        <div class="columns">
+
+          <div class="column is-quarter">
+                  <img  src="../public/ethical.jpg"
+                />
+                
+          </div>
+
+          <div class="column is-three-quarter">
+            <h1 class="title" style="color:white;font-weight:bolder;font-size:30px;text-align:right;text-decoration:underline;">Cyber Security & Ethical Hacking</h1>
+            <h2 style="font-weight:bold;color:white;font-size:18px;">"The More Connected We Are, The Less Secure.."<br><br>As An Ethical Hacker, Also Referred To As A White Hat Hacker, I Can Systematically Attempt to Penetrate Computer Systems, Networks, Applications Or Other Computing Resources On Behalf Of Its Owners -- And With Their Explicit Permission -- To Find Security Vulnerabilities That Malicious Hackers Could Exploit.</h2>
+          </div>
+
+
+
+        </div>
+
+    </div>
+    </div>
+  </section>
+
+  <section class="section" style="background-color:#181818;text-align:left;">
+    <div class="container">
+      <div class="row">
+        <div class="columns">
+
+          <div class="column is-quarter">
+                  <img  src="../public/crypto.jpg"
+                />
+                
+          </div>
+
+          <div class="column is-three-quarter">
+            <h1 class="title" style="color:white;font-weight:bolder;font-size:30px;text-align:left;text-decoration:underline;">Crypto For Business</h1>
+            <h2 style="font-weight:bold;color:white;font-size:18px;">Crypto Is Here To Stay & Businesses Are Quickly Starting To Adopt Ways In Which They Can Accept Crypto At Their Businesses. Using The Binance Platform, I Have Helped Three Establishments Accept Crypto Payments.</h2>
+          </div>
+
+
+        </div>
+
+    </div>
+    </div>
+  </section>
+
+  
+
   <section class="section" style="background-color:#282828;text-align:center;">
     <h1 class="title" style="text-align:center;color:white;font-weight:bolder;font-size:40px;">Clients</h1>
     <div class="columns">
